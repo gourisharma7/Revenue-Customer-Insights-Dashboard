@@ -2,14 +2,14 @@
 An interactive sales dashboard providing insights into revenue, customer trends, and product performance for data-driven decision-making.
 
 
-Implementation
+## Implementation
 
 The dataset was processed and structured in Excel, leveraging advanced pivot tables, charts, and slicers for dynamic filtering. Key performance indicators (KPIs) such as sales by item, profit gained over time, regional sales distribution, top customers, and monthly sales trends were visualized to enable quick and informed decision-making.
 
 
  
 
-Key Metrics:
+## Key Metrics:
 
 
 Sales by Item: Identifies top-performing products contributing to revenue.
@@ -25,7 +25,7 @@ Top 5 Customers: Recognizes high-value clients for targeted retention strategies
 Monthly Sales Trends: Monitors seasonality and sales fluctuations over time.
  
 
-Actionable Insights:
+## Actionable Insights:
 
 Revenue Trends: The highest revenue was recorded in 2017. Consider analyzing what worked that year (marketing, pricing, demand) and replicate it in future strategies.
 
